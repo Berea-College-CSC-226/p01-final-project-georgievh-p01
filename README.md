@@ -2,12 +2,12 @@
 
 ## Instructions
 
-❗️Exclamation Marks ❗️indicate action items; you should remove these emoji as you complete/update the items which 
-  they accompany. (This means that your final README should have no ❗️in it!)
+"!" Exclamation Marks "!" indicate action items; you should remove these emoji as you complete/update the items which 
+  they accompany. (This means that your final README should have no "!" emoji in it!)
 
-❗️**Author(s)**: Your name(s) here
+**Author**: Chris Georgiev
 
-❗️**Google Doc Link**: Your link here
+**Google Doc Link**: https://docs.google.com/document/d/16ZXLxDnBNDRmTM82ZHqgKy62Hbcq34faeOER7Ncfyqo/edit?usp=sharing
 
 ---
 
@@ -36,15 +36,14 @@ helped you, AI tools you've used, and any other resources that are not solely yo
   
 ![Don't leave me in your README!](image/crc.png "Image of CRC card as an example. Upload your CRC card(s) in place of this one. ")
 
-❗️**Branches**: This project will **require** effective use of git. 
+️**Branches**: This project will **require** effective use of git. 
 
 Each partner should create a branch at the beginning of the project, and stay on this branch (or branches of their 
 branch) as they work. When you need to bring each others branches together, do so by merging each other's branches 
 into your own, following the process we've discussed in previous assignments: 
 
 ```
-    Branch 1 name: _____________
-    Branch 2 name: _____________
+    Branch 1 name: georgievh
 ```
 ---
 
@@ -81,12 +80,7 @@ Indicate what percentage of the project you have left to complete and how confid
 
 ### ❗User Instructions
 In a paragraph, explain how to use your program. Assume the user is starting just after they hit the "Run" button 
-in PyCharm. 
-
-### ❗Errors and Constraints
-Every program has bugs or features that had to be scrapped for time. These bugs should be tracked in the issue queue. 
-You should already have a few items in here from the prior weeks. Create a new issue for any undocumented errors and 
-deficiencies that remain in your code. Bugs found that aren't acknowledged in the queue will be penalized.
+in PyCharm.
 
 ### ❗Reflection
 In three to four well-written paragraphs, address the following (at a minimum):
