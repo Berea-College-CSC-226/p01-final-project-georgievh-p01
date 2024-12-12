@@ -125,7 +125,7 @@ class Game:
         self.screen.blit(score_text, (10, 10))
 
         # Update display
-        pygame.display.flip()
+        pygame.display.flip()  # one tutorial uses flip and the other update, and I don't know what the difference is. Flip is quicker to type though.
 
 
     def run(self):

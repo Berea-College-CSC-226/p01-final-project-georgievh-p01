@@ -1,9 +1,6 @@
-# ❗CSC226 Final Project
+# CSC226 Final Project
 
 ## Instructions
-
-"!" Exclamation Marks "!" indicate action items; you should remove these emoji as you complete/update the items which 
-  they accompany. (This means that your final README should have no "!" emoji in it!)
 
 **Author**: Chris Georgiev
 
@@ -18,9 +15,9 @@
 
 ## Milestone 1: Setup, Planning, Design
 
-**Title**: `SquareShooter or something`
+**Title**: `SquareShooter`
 
-**Purpose**: `A game where the player shoots neverending enemies that get more numerous and difficult as time progresses.`
+**Purpose**: `A game where the player shoots neverending enemies that get more numerous and difficult as time progresses. At least originally.`
 
 **Source Assignment(s)**: `Breath of Tuna`
 
@@ -35,11 +32,6 @@
 image/playerCRC.png
 image/projectileCRC.png
 
-️**Branches**: This project will **require** effective use of git. 
-
-Each partner should create a branch at the beginning of the project, and stay on this branch (or branches of their 
-branch) as they work. When you need to bring each others branches together, do so by merging each other's branches 
-into your own, following the process we've discussed in previous assignments: 
 
 ```
     Branch 1 name: georgievh
@@ -54,7 +46,8 @@ Reflect on what you’ve done so far. How’s it going? Are you feeling behind/a
 What has surprised you so far? Describe your general feelings. Be honest with yourself; this section is for you, not me.
 
 ```
-    **Replace this text with your reflection
+    Well, there's a minimum viable product that works, but it's simple to the point of embarassement.
+    Waiting until the last possible moment leads to widespread feature cuts.
 ```
 
 ---
@@ -63,29 +56,30 @@ What has surprised you so far? Describe your general feelings. Be honest with yo
 
 Indicate what percentage of the project you have left to complete and how confident you feel. 
 
-❗️**Completion Percentage**: `0 - 100%`
+**Completion Percentage**: `50%`
 
-❗️**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some 
+**Confidence**: Describe how confident you feel about completing this project, and why. Then, describe some 
   strategies you can employ to increase the likelihood that you'll be successful in completing this project 
   before the deadline.
 
 ```
-    **Replace this text with your reflection
+    Strategy: all-nighter
+    chance of success: questionable
 ```
 
 ---
 
 ## Milestone 4: Final Code, Presentation, Demo
 
-### ❗User Instructions
-In a paragraph, explain how to use your program. Assume the user is starting just after they hit the "Run" button 
-in PyCharm.
+### User Instructions
+Move "ship" up and down using the UP and DOWN arrow keys, and shoot with the spacebar. That's it.
 
-### ❗Reflection
+### Reflection
 In three to four well-written paragraphs, address the following (at a minimum):
 - Why did you select the project that you did?
 - How closely did your final project reflect your initial design?
 - What did you learn from this process?
 - What was the hardest part of the final project?
 - What would you do differently next time, knowing what you know now?
-- (For partners) How well did you work with your partner? What made it go well? What made it challenging?
+  - start earlier
+ 
