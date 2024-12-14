@@ -79,7 +79,9 @@ In three to four well-written paragraphs, address the following (at a minimum):
 - Why did you select the project that you did?
 - How closely did your final project reflect your initial design?
 - What did you learn from this process?
+  - 
 - What was the hardest part of the final project?
+  - keeping track of the bullets; watching a tutorial provided a solution
 - What would you do differently next time, knowing what you know now?
   - start earlier
  
